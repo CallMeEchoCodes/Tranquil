@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+* {
+  font-family: 'Inter', sans-serif;
+}
+
+.card {
+  width: 10vw;
+  height: 15vh;
+}
+
+.list {
+  width: 10vw;
+  height: 40vh;
+}
+
+.listitem {
+  width: 7vw;
+  height: 4vh;
+}
+
+.search {
+  border-color: #00000000;
+}

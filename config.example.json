@@ -1,0 +1,98 @@
+{
+    "name": "Echo",
+    "latitude": "YOURLAT",
+    "longitude": "YOURLONG",
+    "unit": "celsius",
+    "openweathermapKey": "YOUROPWKEY",
+    "icons": [
+        {
+            "link": "https://github.com",
+            "icon": "Github"
+        },
+        {
+            "link": "https://mail.proton.me",
+            "icon": "Mail"
+        },
+        {
+            "link": "https://reddit.com",
+            "icon": "Glasses"
+        },
+        {
+            "link": "https://trello.com",
+            "icon": "Trello"
+        },
+        {
+            "link": "https://monkeytype.com/",
+            "icon": "Keyboard"
+        },
+        {
+            "link": "https://calendar.proton.me",
+            "icon": "Calendar"
+        }
+    ],
+    "lists": [
+        {
+            "titleicon": "Music",
+            "items": [
+                {
+                    "text": "Lofi",
+                    "link": "https://www.youtube.com/watch?v=jfKfPfyJRdk"
+                },
+                {
+                    "text": "Liked",
+                    "link": "https://open.spotify.com/collection/tracks"
+                },
+                {
+                    "text": "Chill",
+                    "link": "https://open.spotify.com/playlist/3LBGtLO93Jvo4SRLXKtwqx"
+                },
+                {
+                    "text": "NGGUP",
+                    "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+                }
+            ]
+        },
+        {
+            "titleicon": "Music",
+            "items": [
+                {
+                    "text": "Lofi",
+                    "link": "https://www.youtube.com/watch?v=jfKfPfyJRdk"
+                },
+                {
+                    "text": "Liked",
+                    "link": "https://open.spotify.com/collection/tracks"
+                },
+                {
+                    "text": "Chill",
+                    "link": "https://open.spotify.com/playlist/3LBGtLO93Jvo4SRLXKtwqx"
+                },
+                {
+                    "text": "NGGUP",
+                    "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+                }
+            ]
+        },
+        {
+            "titleicon": "Music",
+            "items": [
+                {
+                    "text": "Lofi",
+                    "link": "https://www.youtube.com/watch?v=jfKfPfyJRdk"
+                },
+                {
+                    "text": "Liked",
+                    "link": "https://open.spotify.com/collection/tracks"
+                },
+                {
+                    "text": "Chill",
+                    "link": "https://open.spotify.com/playlist/3LBGtLO93Jvo4SRLXKtwqx"
+                },
+                {
+                    "text": "NGGUP",
+                    "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+                }
+            ]
+        }
+    ]
+}
